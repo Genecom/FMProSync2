@@ -1,12 +1,16 @@
 # FMProSync 2
-=========
+
 
 FileMaker® Go と FileMaker Server 上のデータの同期ソリューション
+FileMaker 12 の場合は、 [**FMProSync**](https://github.com/Genecom/FMProSync/) をご利用ください。
 
-FileMaker 12 の場合は、 [*FMProSync*](https://github.com/Genecom/FMProSync/) をご利用ください。
+実装手順の動画 http://youtu.be/mJe1JmITM8Y
+
+### 変更履歴
+* v2.0.0 (2014/11/26)
+  * 公開
 
 
-=========
 # LICENSE
 
 The MIT License
